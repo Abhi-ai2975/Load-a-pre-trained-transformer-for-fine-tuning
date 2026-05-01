@@ -1,0 +1,14 @@
+# Python Environment
+fine_tuning_env/
+__pycache__/
+*.pyc
+
+# Model Checkpoints and Weights
+qwen-finetuned/
+qwen-finetuned-adapter/
+*.safetensors
+*.bin
+
+# WSL/System Backups
+*.tar
+.DS_Store

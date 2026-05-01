@@ -21,5 +21,18 @@ This repository contains the infrastructure and training scripts to fine-tune li
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Abhi-ai2975/Load-a-pre-trained-transformer-for-fine-tuning.git](https://github.com/Abhi-ai2975/Load-a-pre-trained-transformer-for-fine-tuning.git)
+   git clone https://github.com/Abhi-ai2975/Load-a-pre-trained-transformer-for-fine-tuning.git
    cd Load-a-pre-trained-transformer-for-fine-tuning
+   
+2. Create and activate the Python environment:
+   ```bash
+   python3 -m venv fine_tuning_env
+   source fine_tuning_env/bin/activate
+   
+3. Install all necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+  
+4. To run:
+   ```bash
+    python train.py
