@@ -82,3 +82,5 @@ trainer.train()
 # 8. Save the newly trained adapters
 trainer.model.save_pretrained("qwen-finetuned-adapter")
 print("Training complete! Adapter saved.")
+
+#complete
