@@ -21,4 +21,5 @@ This repository contains the infrastructure and training scripts to fine-tune li
 
 1. Clone the repository:
    ```bash
-   
+   git clone [https://github.com/Abhi-ai2975/Load-a-pre-trained-transformer-for-fine-tuning.git](https://github.com/Abhi-ai2975/Load-a-pre-trained-transformer-for-fine-tuning.git)
+   cd Load-a-pre-trained-transformer-for-fine-tuning
